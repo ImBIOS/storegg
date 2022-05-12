@@ -10,6 +10,38 @@ Di kelas ini, kita akan membuat project yang kompleks berupa website top up game
 
 Kelas ini cocok untuk Anda yang ingin mendalami pengembangan website dengan Javascript. Dengan mengetahui keseluruhan proses dengan baik dan benar, kita dapat meningkatkan skill kita sebagai developer dan tentunya aplikasi yang dihasilkan kedepannya akan lebih berkualitas. Untuk mempermudah belajar, harap pahami dasar-dasar Javascript, React, dan Database terlebih dahulu. Dan silakan tanyakan juga kepada Mentor ahli kami di grup konsultasi. Daftar sekarang dan sampai jumpa di kelas!
 
+# Poin Utama
+
+- Deploy proyek ke Vercel (Front-End) dan Heroku (Back-End)
+
+- Mengintegrasikan NodeJS REST API dengan ReactJS (NextJS)
+
+- Buat fitur Daftar dan Masuk
+
+- Membuat CRUD yang mencakup login dengan JWT
+
+- Membuat Buku Cerita untuk membangun pustaka komponen di React
+
+- Memproses database dengan MongoDB
+
+- Mengonversi HTML ke NextJS
+
+- Pemahaman lengkap tentang pengembangan situs web (Front-End dan Back-End)
+
+# Dirancang untuk
+
+- Anda yang ingin menjadi Pengembang Full-Stack
+
+- Anda yang ingin menjadi Pengembang Javascript
+
+- Bagi Anda yang ingin membangun portofolio web yang terukur dan menjual
+
+- Bagi Anda yang ingin membangun fitur Daftar dan Masuk di situs web
+
+- Bagi Anda yang ingin membangun website dengan desain berkualitas tinggi
+
+- Anda yang ingin menguasai pengembangan website
+
 # Referensi
 
 https://buildwithangga.com/kelas/full-stack-javascript-developer-2021-website-top-up-voucher-game
